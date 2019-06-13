@@ -12,7 +12,6 @@ h1, h2, h3 {
 header {
     background-color: rgb(204, 62, 62);
     display: flex;
-    
     flex-wrap: wrap;
 }
 ul {
@@ -32,7 +31,7 @@ a {
     margin: 0;
     padding: 0;
     display: flex;
-    flex-grow: 2; 
+    flex-grow: 1; 
     justify-content: flex-end;
     flex-wrap: wrap;
     
@@ -55,7 +54,6 @@ a {
     border-style: solid;
     border-color: black;
     border: 5px;
-
 }
 
 
@@ -79,11 +77,13 @@ a {
 }
 .one {
     width: 50%;
+    height: 100%;
     margin: 0;
 }
 .tvo {
     width: 50%;
     margin: 0;
+    text-align: right;
 }
 .three {
     width: 50%;
@@ -95,8 +95,8 @@ a {
     display: flex;
 }
 .google, .apple {
-    width: 120px;
-    height: 60px;
+    width: 180px;
+    height: 120px;
 }
 .four img {
     width: auto;
