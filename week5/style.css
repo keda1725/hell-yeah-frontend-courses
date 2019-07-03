@@ -1,0 +1,101 @@
+body {
+    font-family: 'Sniglet', cursive; 
+}
+header {
+    text-align: center;    
+    background-color: darkslategray;
+    width:100%;
+    height: 1048px;   
+}
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+header a, h1 {
+    vertical-align: middle;
+    margin: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.button {
+    width: 230px;
+    height: 60px;
+    padding:5px;    
+    background-color: yellow;
+    font-family: 'Sniglet', cursive;
+}
+.nav {
+    display: inline-flex; 
+    justify-content: space-around;
+    width: 1200px;
+    height: 100%;
+    margin-left: 25%;
+    margin-right: 25%;    
+}
+.logo {
+    display: inline-flex;
+}
+.logo img{
+    margin-right: 10px;
+}
+.logo p{
+    vertical-align: middle;
+}
+.meny {
+    list-style: none;
+    display: inline-flex;           
+}
+.meny li {
+    padding: 10px;
+    text-align: left;
+    margin: 10px;
+}
+.info {
+    text-align: center;
+    width: 1200px;
+    height: 100%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-top: 2px solid;
+    border-top-color: black;
+
+}
+.info h2, .info p, .info h3 {
+    padding: 15px;
+}
+.info h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(185, 37, 37);
+}
+.we {
+    display: inline-flex;
+    justify-content: center;
+    padding-inline-start: 0;
+}
+.we h3 {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(185, 37, 37);
+}
+.info2 {
+    text-align: center;
+    
+    background-color: rgb(66, 168, 106);
+}
+.info2 h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(235, 98, 19);
+    padding: 2%;
+}
+.info2 {
+    width: 1200px;
+    height: 100%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 3%;
+}
