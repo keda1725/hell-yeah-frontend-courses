@@ -5,4 +5,4 @@
 
 * Неделя 4. [Простой лендинг №2](https://github.com/keda1725/hell-yeah-frontend-courses/tree/master/week4/index.html)
 
-* Неделя 5. [Простой лендинг снова](https://github.com/keda1725/hell-yeah-frontend-courses/tree/master/week5)
+* Неделя 5. [Простой лендинг снова](https://github.com/keda1725/hell-yeah-frontend-courses/tree/master/week5/index.html)
